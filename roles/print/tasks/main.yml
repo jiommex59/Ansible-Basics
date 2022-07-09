@@ -6,3 +6,6 @@
  - name: print message
    debug:
      msg: "{{ print_result.stdout_lines }}"
+
+
+     
